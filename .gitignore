@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+/spark-training.iml
+/src/main/resources/call_log/
+/src/main/resources/students/
+/target/
+/spark-warehouse/
